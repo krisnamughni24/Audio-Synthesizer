@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EnvelopeConfiguration>
+    <attack>0.2</attack>
+    <decay>1.0</decay>
+    <delay>0.0</delay>
+    <hold>1.0</hold>
+    <release>0.2</release>
+</EnvelopeConfiguration>
